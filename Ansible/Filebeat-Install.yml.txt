@@ -1,6 +1,6 @@
 ---
 - name: Installing and Launch Filebeat
-  hosts: elk
+  hosts: Webservers
   become: true
   tasks:
     # Use command module

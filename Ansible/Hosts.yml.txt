@@ -22,9 +22,9 @@
 ## beta.example.org
 ## 192.168.1.100
 ## 192.168.1.110
-AzureUser@10.0.0.11 ansible_python_interpreter=/usr/bin/python3
+AzureUser@10.0.0.12 ansible_python_interpreter=/usr/bin/python3
 AzureUser@10.0.0.9 ansible_python_interpreter=/usr/bin/python3
-
+           AzureUser@10.0.0.13 ansible_python_interpreter=/usr/bin/python3
 [elk]
 AzureUser@10.2.0.4 python_interpreter=/usr/bin/python3
 
