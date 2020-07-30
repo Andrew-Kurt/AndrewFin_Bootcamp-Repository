@@ -78,11 +78,11 @@ The playbook implements the following tasks:
 - Install Python3 and and install docker within python3
 - Increase virtaul memory automatically when Elk is booted
 - Download and Launch a docker container for Elk
-- Enable the docker container previously created
-./Images/Elk-Container-Setup.png
+- Enable the docker container created
+<img src="Diagrams/Elk-Container-Setup.PNG">
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
-./Images/Docker-Containers-in-Elk.png
+<img src="Diagrams/Docker-Containers-in-Elk.PNG">
 
 ### Target Machines & Beats
 
